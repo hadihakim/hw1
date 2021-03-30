@@ -8,6 +8,6 @@ namespace hw1.Models
     public class Student
     {
         public int Id { get; set; }
-        public int StudentName { get; set; }
+        public String StudentName { get; set; }
     }
 }
